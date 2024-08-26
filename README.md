@@ -1,5 +1,9 @@
 # currency_converter ₽↔️$
 
+![GitHub repo size](https://img.shields.io/github/repo-size/cosmopolityan/currency_converter)
+![GitHub Release](https://img.shields.io/github/v/release/cosmopolityan/currency_converter)
+![GitHub last commit](https://img.shields.io/github/last-commit/cosmopolityan/currency_converter)
+
 Super simple and lightweight Google Chrome Extension for converting the Russian ruble into other world currencies and vice versa.
 
 ### How to use?
